@@ -21,7 +21,7 @@ This project is a **Dental Insurance Cost Calculator** built using **Streamlit**
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/dental-insurance-calculator.git
+   git clone https://github.com/SnuggerG/dental-insurance-calculator.git
    cd dental-insurance-calculator
    ```
 2. Install the required Python dependencies:
